@@ -23,12 +23,19 @@ Akshara , an E-learning platform is a project made by using react,tailwind CSS,n
 
 ## Installation
 
-Install my-project with npm
+Install my-project with yarn
 
 ```bash
 yarn install
 
 yarn run dev --host
+```
+Install my-project with npm
+
+```bash
+npm i
+
+npm run dev 
 ```
     
 ## License
