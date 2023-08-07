@@ -1,2 +1,56 @@
+
 # Akshara
- An E-learning platform that helps students to learn code
+
+Akshara , an E-learning platform is a project made by using react,tailwind CSS,node,vite .
+
+
+![Logo](https://i.ibb.co/HhTX38z/logo1.png)
+
+
+## Authors
+
+- [@Manish Gupta](https://web-manishgupta.vercel.app/)
+
+
+
+
+
+## Deployment
+
+
+
+- [https://akshara.vercel.app/]()
+
+## Installation
+
+Install my-project with npm
+
+```bash
+yarn install
+
+yarn run dev --host
+```
+    
+## License
+
+
+MIT License
+
+Copyright (c) 2023 Manish Gupta
+
+
+## Technologies Used
+
+- React
+
+- Vite
+
+- Node.js
+
+- Tailwind CSS
+
+
+
+
+
+
